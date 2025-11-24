@@ -3,7 +3,7 @@
 This project focuses on analyzing employee performance for **ScienceQtech**, a startup specializing in Data Science solutions including fraud detection, market basket analysis, self-driving cars, supply chain optimization, customer sentiment analysis, and drug discovery.
 
 The HR department requested an in-depth employee performance mapping ahead of the annual appraisal cycle.  
-As a **Junior Database Administrator**, the goal was to analyze employee data, evaluate job role alignment, compute bonuses, and generate insights using SQL.
+As a **Junior Data Analyst**, the goal was to analyze employee data, evaluate job role alignment, compute bonuses, and generate insights using SQL.
 
 ---
 
