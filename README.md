@@ -1,4 +1,4 @@
-# 📊 ScienceQtech – Employee Performance Mapping Using SQL
+# 👩‍💼 ScienceQtech – Employee Performance Mapping Using SQL
 
 This project focuses on analyzing employee performance for **ScienceQtech**, a startup specializing in Data Science solutions including fraud detection, market basket analysis, self-driving cars, supply chain optimization, customer sentiment analysis, and drug discovery.
 
